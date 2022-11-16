@@ -1,4 +1,4 @@
-# Chinese Diabetes Question Classification Check 2023
+# Chinese Diabetes Question Classification Evaluation 2023
 ## 1. Task content
 The Chinese diabetes question classification Check task aims to automatically classify diabetes related questions raised by patients.As a typical chronic disease, diabetes has become one of the major global public healthchallenges. With the rapid development of the Internet, the huge group of type 2 diabetes patients and high-risk people has shown an increasing demand for specializedinformation on diabetes. The automated diabetes Question Answering (QA) services also play a vital role in providing daily health services for patients and high-risk people.This task will help to enhance the performance of search results and promote the development of diabetes automatic question answering service.
 
