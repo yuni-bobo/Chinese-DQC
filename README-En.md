@@ -21,3 +21,4 @@ $Accuracy  = \frac{Predict\ the\ correct\ number\ of\ samples}{Total\ number\ of
 Contestants are invited to download the registration form at [Registration-Form](https://github.com/yuni-bobo/Chinese-DQC/blob/main/Registration-Form.docx) .After filling in the registration form, please send an email to the mailbox in the form of an attachment for registration: ncaa2023classify@163.com 
 
 ## 6. Submission method
+Participants should send the code and the test set file filled with the classification to the email in the form of an attachment：ncaa2023classify@163.com
