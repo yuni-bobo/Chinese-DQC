@@ -18,7 +18,7 @@ $Accuracy  = \frac{Predict\ the\ correct\ number\ of\ samples}{Total\ number\ of
 <table><tr><th>Time</th><th>Event</th></tr><tr><td>Decr 15，2022~Mar 10，2023</td><td>Open Registration</td></tr><tr><td>Dec 20,2022</td><td>Publish training and development sets</td></tr><tr><td>Feb 15,2023</td><td>Publish test set and start to submit test set results</td></tr><tr><td>Mar 15, 2023</td><td>Result submission due</td></tr><tr><td>Apr 1,2023</td><td>Notification of final list</td></tr></tr><tr><td>Apr 30, 2023</td><td>Invited papers or presentations confirmation due</td></tr><tr><td> May 16, 2023</td><td>Notification of acceptance or rejection</td></tr></table>
 
 ## 5. Registration method
-Contestants are invited to download the registration form at [Registration-Form](https://github.com/yuni-bobo/Chinese-DQC/blob/main/Registration-Form.docx) .After filling in the registration form, please send an email to the mailbox in the form of an attachment for registration: ncaa2023classify@163.com 
+Participants are invited to download the registration form at [Registration-Form](https://github.com/yuni-bobo/Chinese-DQC/blob/main/Registration-Form.docx) .After filling in the registration form, please send an email to the mailbox in the form of an attachment for registration: ncaa2023classify@163.com 
 
 ## 6. Submission method
 Participants should send the code and the test set file filled with the classification to the email in the form of an attachment：ncaa2023classify@163.com
