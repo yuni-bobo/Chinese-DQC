@@ -33,7 +33,7 @@ Note: Each Participant can only register for one team
 ## 6. Submission method
 Participants should fill in the "label" column corresponding to the test set according to the following example requirements. " \t" is used as the separator between "question" and "label". Finally, save the file as "test. txt" and send it to the mailbox: ncaa2023classify@163.com
 
-Note: The real-time ranking of Participants can be viewed in [leaderboard] (leaderboard/README.md)
+Note: The real-time ranking of Participants can be viewed in [leaderboard](leaderboard/README.md)
 <table>
   <tr><th>question</th><th>\t</th><th>label</th></tr>
   <tr><td>糖尿病患者可以吃西瓜吗</td><td>\t</td><td>3</td></tr>
