@@ -11,7 +11,7 @@ $Accuracy  = \frac{Predict\ the\ correct\ number\ of\ samples}{Total\ number\ of
 
 ## 3. Scale and distribution of evaluation data
 
-<table><tr><th>Categories</th><th>Training Se</th><th>Validation Set</th><th>Test Set</th><th>Total</th></tr>
+<table><tr><th>Categories</th><th>Training Set</th><th>Validation Set</th><th>Test Set</th><th>Total</th></tr>
   <tr><td>Diagnosis</td><td>527</td><td>103</td><td>87</td><td>717</td></tr>
   <tr><td>Treatment</td><td>1501</td><td>260</td><td>265</td><td>2026</td></tr>
   <tr><td>Common Knowledge</td><td>1226</td><td>212</td><td>217</td><td>1655</td></tr>
