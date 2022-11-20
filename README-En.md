@@ -30,7 +30,7 @@ $Accuracy  = \frac{Predict\ the\ correct\ number\ of\ samples}{Total\ number\ of
   <tr><td>Mar 25, 2023</td><td>Result submission due</td></tr>
   <tr><td>Apr 1,2023</td><td>Notification of final list</td></tr>
   <tr><td>Apr 30, 2023</td><td>Invited papers or presentations confirmation due</td></tr>
-  <tr><td> May 16, 2023</td><td>Notification of acceptance or rejection</td></tr>
+  <tr><td> May 14, 2023</td><td>Notification of acceptance or rejection</td></tr>
 </table>
 
 ## 5. Registration method
