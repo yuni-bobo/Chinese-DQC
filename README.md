@@ -11,7 +11,7 @@ $准确率(Accuracy) = \frac{预测正确的样本数}{预测总样本数}$
 
 ## 3. 评测数据规模与分布
 
-<table><tr><th>类别</th><th>训练集</th><th>开发集</th><th>测试集</th><th>总计</th></tr>
+<table><tr><th>类别</th><th>训练集</th><th>验证集</th><th>测试集</th><th>总计</th></tr>
   <tr><td>诊断</td><td>527</td><td>103</td><td>87</td><td>717</td></tr>
   <tr><td>治疗</td><td>1501</td><td>260</td><td>265</td><td>2026</td></tr>
   <tr><td>常识</td><td>1226</td><td>212</td><td>217</td><td>1655</td></tr>
@@ -24,7 +24,7 @@ $准确率(Accuracy) = \frac{预测正确的样本数}{预测总样本数}$
 ## 4. 评测赛程
 
 <table><tr><th>时间</th><th>事项</th></tr>
-<tr><td>12月20日</td><td>发布训练集和开发集</td></tr>
+<tr><td>12月20日</td><td>发布训练集和验证集</td></tr>
 <tr><td>2月15日</td><td>发布测试集，开始提交测试集结果</td></tr>
 <tr><td>3月25日</td><td>截止提交测试集结果</td></tr>
 <tr><td>4月1日</td><td>获奖名单公布</td></tr>
