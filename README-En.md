@@ -41,7 +41,7 @@ Note: Each Participant can only register for one team
 ## 6. Submission method
 Participants should fill in the "label" column corresponding to the test set according to the following example requirements. " \t" is used as the separator between "question" and "label". Finally, save the file as "test. txt" and send it to the mailbox: ncaa2023classify@163.com
 
-Note: The real-time ranking of Participants can be viewed in [leaderboard](https://yuni-bobo.github.io/leaderboard.html)
+Note: The real-time ranking of Participants can be viewed in [LeaderBoard](https://yuni-bobo.github.io/leaderboard.html),The leaderboard updates the team's real-time score ranking at 21:00 every day.
 <table>
   <tr><th>question</th><th>\t</th><th>label</th></tr>
   <tr><td>糖尿病患者可以吃西瓜吗</td><td>\t</td><td>3</td></tr>
