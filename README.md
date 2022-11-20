@@ -27,7 +27,8 @@ $准确率(Accuracy) = \frac{预测正确的样本数}{预测总样本数}$
 
 ## 5. 报名方式
 参赛者请在[报名表](https://github.com/yuni-bobo/Chinese-DQC/blob/main/Registration-Form.docx)下载报名表，按照规定要求填写后，以附件形式发送邮件到邮箱: ncaa2023classify@163.com 进行报名。
-**ps**:**每位参赛队员只能报名参加一个队伍**
+
+**注意**:**每位参赛队员只能报名参加一个队伍**
 
 ## 6. 提交方式
 参赛者请按照以下示例要求填充好测试集对应的“label”列，“question”与“label”之间使用“\t”作为分隔符。最后将文件保存为“.txt”格式发送至邮箱：ncaa2023classify@163.com 
