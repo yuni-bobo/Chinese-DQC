@@ -10,11 +10,16 @@
 $准确率(Accuracy) = \frac{预测正确的样本数}{预测总样本数}$
 
 ## 3. 评测数据规模与分布
-### 3.1 数据集样本数量分布
 
-<table><tr><th>训练集</th><th>开发集</th><th>测试集</th><th>总计</th></tr><tr><td>6000</td><td>1000</td><td>1000</td><td>8000</td></tr></table>
-
-### 3.1 数据集分类数量分布
+<table><tr><th>类别</th><th>训练集</th><th>开发集</th><th>测试集</th><th>总计</th></tr>
+  <tr><td>诊断</td><td>527</td><td>103</td><td>87</td><td>717</td></tr>
+  <tr><td>治疗</td><td>1501</td><td>260</td><td>265</td><td>2026</td></tr>
+  <tr><td>常识</td><td>1226</td><td>212</td><td>217</td><td>1655</td></tr>
+  <tr><td>健康生活方式</td><td>1702</td><td>251</td><td>273</td><td>2226</td></tr>
+  <tr><td>流行病学</td><td>599</td><td>118</td><td>90</td><td>807</td></tr>
+  <tr><td>其他</td><td>445</td><td>56</td><td>68</td><td>569</td></tr>
+  <tr><td>总计</td><td>6000</td><td>1000</td><td>1000</td><td>8000</td></tr>
+</table>
 
 ## 4. 评测赛程
 
@@ -24,4 +29,6 @@ $准确率(Accuracy) = \frac{预测正确的样本数}{预测总样本数}$
 参赛者请在[报名表](https://github.com/yuni-bobo/Chinese-DQC/blob/main/Registration-Form.docx)下载报名表，按照规定要求填写后，以附件形式发送邮件到邮箱: ncaa2023classify@163.com 进行报名。
 
 ## 6. 提交方式
-参赛者请将代码和填充好分类的测试集文件以附件形式发送至邮箱：ncaa2023classify@163.com 
+参赛者请按照以下示例要求填充好测试集对应的“label”列，“question”与“label”之间使用“\t”作为分隔符。最后将文件保存为“.txt”格式发送至邮箱：ncaa2023classify@163.com 
+
+<table><tr><th>question</th><th>\t</th><th>label</th></tr><tr><td>糖尿病患者可以吃西瓜吗</td><td>\t</td><td>3</td></tr></table>
