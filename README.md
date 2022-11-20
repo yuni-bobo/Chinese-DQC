@@ -40,5 +40,5 @@ $准确率(Accuracy) = \frac{预测正确的样本数}{预测总样本数}$
 ## 6. 提交方式
 参赛者请按照以下示例要求填充好测试集对应的“label”列，“question”与“label”之间使用“\t”作为分隔符。最后将文件保存为“test.txt”格式发送至邮箱：ncaa2023classify@163.com 
 
-注意：参赛选手的实时排名可在[leaderboard](https://yuni-bobo.github.io/leaderboard.html)查看,Leaderboard每日21:00更新队伍实时成绩排名
+注意：参赛选手的实时排名可在[LeaderBoard](https://yuni-bobo.github.io/leaderboard.html)查看,Leaderboard每日21:00更新队伍实时成绩排名
 <table><tr><th>question</th><th>\t</th><th>label</th></tr><tr><td>糖尿病患者可以吃西瓜吗</td><td>\t</td><td>3</td></tr></table>
