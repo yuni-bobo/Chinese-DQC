@@ -26,7 +26,7 @@ $Accuracy  = \frac{Predict\ the\ correct\ number\ of\ samples}{Total\ number\ of
 <table>
   <tr><th>Time</th><th>Event</th></tr>
   <tr><td>Dec 15，2022~Mar 10，2023</td><td>Open Registration</td></tr>
-  <tr><td>Dec 20,2022</td><td>Publish training setand validation set</td></tr>
+  <tr><td>Dec 20,2022</td><td>Publish training set and validation set</td></tr>
   <tr><td>Feb 15,2023</td><td>Publish test set and start to submit test set results</td></tr>
   <tr><td>Mar 15, 2023</td><td>Result submission due</td></tr>
   <tr><td>Apr 1,2023</td><td>Notification of final list</td></tr>
