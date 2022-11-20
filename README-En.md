@@ -28,5 +28,13 @@ $Accuracy  = \frac{Predict\ the\ correct\ number\ of\ samples}{Total\ number\ of
 ## 5. Registration method
 Participants are invited to download the registration form at [Registration-Form](https://github.com/yuni-bobo/Chinese-DQC/blob/main/Registration-Form.docx) .After filling in the registration form, please send an email to the mailbox in the form of an attachment for registration: ncaa2023classify@163.com 
 
+Note: Each Participant can only register for one team
+
 ## 6. Submission method
-Participants should send the code and the test set file filled with the classification to the email in the form of an attachment：ncaa2023classify@163.com
+Participants should fill in the "label" column corresponding to the test set according to the following example requirements. " \t" is used as the separator between "question" and "label". Finally, save the file as "test. txt" and send it to the mailbox: ncaa2023classify@163.com
+
+Note: The real-time ranking of Participants can be viewed in [leaderboard] (leaderboard/README.md)
+<table>
+  <tr><th>question</th><th>\t</th><th>label</th></tr>
+  <tr><td>糖尿病患者可以吃西瓜吗</td><td>\t</td><td>3</td></tr>
+</table>
