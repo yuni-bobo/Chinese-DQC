@@ -1,5 +1,5 @@
 # 中文糖尿病问题分类评测 2023
-##获奖名单公布
+## 获奖名单公布
 <table><tr><th>Team Name</th><th>Score</th><th>Rank</th></tr>
   <tr><td>永升队</td><td>89.9</td><td>1</td></tr>
   <tr><td>biubiu</td><td>89.6</td><td>2</td></tr>
